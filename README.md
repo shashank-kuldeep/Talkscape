@@ -46,12 +46,6 @@ npm run dev
 ---
 
 ## 🌠 Screenshots
-
-<p align="center">
-  <img src="https://i.imgur.com/4M7IWwP.gif" width="400" alt="Ethereal Chat Screenshot" style="border-radius: 12px; box-shadow: 0 4px 16px #b0e0e6;" />
-  <img src="https://i.imgur.com/8Km9tLL.gif" width="400" alt="Vintage Chat Screenshot" style="border-radius: 12px; box-shadow: 0 4px 16px #e0b0ff;" />
-</p>
-
 ---
 
 ## 💖 Credits
