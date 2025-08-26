@@ -53,8 +53,4 @@ npm run dev
 - Inspired by vintage UIs and ethereal aesthetics
 - Banner art by [Unsplash](https://unsplash.com/) & [Giphy](https://giphy.com/)
 - Made with 💜 by [yourusername](https://github.com/yourusername)
-
 ---
-
-<p align="center">
-  <img src="https://i.imgur.com/4M7IWwP.gif" width="120" alt="Ethereal Footer" />
