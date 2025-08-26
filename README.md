@@ -45,9 +45,6 @@ npm run dev
 
 ---
 
-## 🌠 Screenshots
----
-
 ## 💖 Credits
 
 - Inspired by vintage UIs and ethereal aesthetics
