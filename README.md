@@ -47,7 +47,7 @@ npm run dev
 
 ## 💖 Credits
 
-- Inspired by vintage UIs and ethereal aesthetics
+- A symphony of code and intelligence.
 - Banner art by [Unsplash](https://unsplash.com/) & [Giphy](https://giphy.com/)
-- Made with 💜 by [yourusername](https://github.com/yourusername)
+- Made with 💜 by [Shashank kuldeep](https://github.com/yourusername)
 ---
