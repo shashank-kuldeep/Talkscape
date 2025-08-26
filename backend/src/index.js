@@ -37,3 +37,6 @@ server.listen(PORT,()=>{
     console.log(`listening for requests ${PORT}`);
     connectDB();
 });
+app.get("/", (req, res) => {
+  res.send("Server is working! 🚀");
+});
