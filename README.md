@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/4M7IWwP.gif" alt="Ethereal Vintage Banner" width="100%" style="border-radius: 18px; box-shadow: 0 8px 32px rgba(160, 120, 255, 0.18);" />
-</p>
-
 <h1 align="center" style="color:#e0b0ff; font-family:'Cedarville Cursive', cursive; text-shadow: 2px 2px 12px #b0e0e6;">
   🌸✨ Vintage Ethereal Chat App ✨🌸
 </h1>
