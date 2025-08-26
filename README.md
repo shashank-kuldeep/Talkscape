@@ -10,12 +10,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://i.imgur.com/8Km9tLL.gif" width="320" alt="Animated Vintage Chat" style="border-radius: 12px; box-shadow: 0 4px 16px #e0b0ff55;" />
-</p>
-
----
-
 ## 🌈 Features
 
 - <span style="color:#e0b0ff;">Minimal setup</span> to get <span style="color:#ffb6c1;">React</span> working in <span style="color:#a7c7e7;">Vite</span> with HMR
